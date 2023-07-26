@@ -17,7 +17,7 @@ variable "avavilability_zone" {
   
 }
 
-variable "route" {
+ variable "route" {
     default = "0.0.0.0/0"
   
 }
