@@ -3,7 +3,9 @@ resource "aws_vpc" "First-VPC" {
     cidr_block = var.vpc_cidr
 
     tags = {
-      Name = "Terraform-vpc"
+
+
+      Name = "Terraform-vpc-hello-bolo"
     }
   
 }
