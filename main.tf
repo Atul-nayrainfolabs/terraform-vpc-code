@@ -4,7 +4,8 @@ resource "aws_vpc" "First-VPC" {
 
     tags = {
 
-      Name = "Terraform-vpc-hello"
+
+      Name = "Terraform-vpc-hello-bolo"
     }
   
 }
